@@ -1,5 +1,10 @@
-hi,i'm rajshekar . a very pass
+hey there![KoryverseKorysverseGIF](https://user-images.githubusercontent.com/82643732/141486074-2571b857-5910-49b8-913f-bad5e1142eeb.gif)
 
 
 
-https://user-images.githubusercontent.com/82643732/141406099-5691e5d1-b9d0-414a-a2e9-2b40ee193d7c.mp4
+hi,i'm rajshekar.immensely passionate self-taught
+web designer and kick off app devloper 
+
+
+
+
