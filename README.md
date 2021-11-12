@@ -1,9 +1,9 @@
-hey there![KoryverseKorysverseGIF](https://user-images.githubusercontent.com/82643732/141486074-2571b857-5910-49b8-913f-bad5e1142eeb.gif)
+hey there 👋
 
 
 
 hi,i'm rajshekar.immensely passionate self-taught
-web designer and kick off app devloper 
+web designer,kick off app devloper and ethical hacker.currntly pursuing my b.tech degree in electronics and computer engineering from reva university , india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in designs  
 
 
 
