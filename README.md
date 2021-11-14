@@ -1,3 +1,8 @@
+RAJ
+___________________________________________________________________________________________________________________________________________________________________________
+
+
+
 https://user-images.githubusercontent.com/82643732/141500510-a0b39109-b951-4ecc-940c-f02985e6497a.mp4
 
 
@@ -5,7 +10,7 @@ hey there!👋
 
 
 hi,i'm rajshekar.immensely passionate self-taught
-web designer,kick off app devloper and ethical hacker.currntly pursuing my b.tech degree in electronics and computer engineering from reva university , india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in designs and responsive smooth user interface.
+web designer,kick off app devloper and ethical hacker.currently pursuing my b.tech degree in electronics and computer engineering from reva university , india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in designs and responsive smooth user interface.
 
 https://user-images.githubusercontent.com/82643732/141497058-47169488-77f0-45f4-84b3-3eb9982f33c8.mp4
 ## 🙋‍♂️ About Me
@@ -70,7 +75,7 @@ https://user-images.githubusercontent.com/82643732/141497058-47169488-77f0-45f4-
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/RAJSHEKAR/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/RAJSHEKAR./"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/rajshekar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/raj_shekar_it_is/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
@@ -78,7 +83,7 @@ https://user-images.githubusercontent.com/82643732/141497058-47169488-77f0-45f4-
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com//github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=rajshekar723">
 </a>
 <a href="https://github.com/rajshekar723?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
