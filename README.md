@@ -6,7 +6,7 @@ ________________________________________________________________________________
 https://user-images.githubusercontent.com/82643732/141500510-a0b39109-b951-4ecc-940c-f02985e6497a.mp4
 
 
-hey there!<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="left">hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 hi,i'm rajshekar.immensely passionate self-taught
