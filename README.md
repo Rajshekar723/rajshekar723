@@ -9,10 +9,15 @@ https://user-images.githubusercontent.com/82643732/141500510-a0b39109-b951-4ecc-
 <h1 align="left">hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
+
+
+
+
 hi,i'm rajshekar.immensely passionate self-taught
 web designer,kick off app devloper and ethical hacker.currently pursuing my b.tech degree in electronics and computer engineering from reva university , india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in designs and responsive smooth user interface.
 
-https://user-images.githubusercontent.com/82643732/141497058-47169488-77f0-45f4-84b3-3eb9982f33c8.mp4
+https://user-images.githubusercontent.com/82643732/141703909-a86cd195-62ad-44a3-bc8c-3f9aba8ee991.mp4    
+    
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
