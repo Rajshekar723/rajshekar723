@@ -13,7 +13,7 @@ ________________________________________________________________________________
 
 
 hi,i'm rajshekar.immensely passionate self-taught
-web designer,kick off app devloper and ethical hacker.currently pursuing my b.tech degree in electronics and computer engineering from reva university , india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in designs and responsive smooth user interface.
+web designer,kick off app developer and ethical hacker.currently pursuing my b.tech degree in electronics and computer engineering from reva university , india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in designs and responsive smooth user interface.
 
 https://user-images.githubusercontent.com/82643732/141703909-a86cd195-62ad-44a3-bc8c-3f9aba8ee991.mp4    
     
