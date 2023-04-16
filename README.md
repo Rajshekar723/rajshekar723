@@ -35,7 +35,8 @@ https://user-images.githubusercontent.com/82643732/141703909-a86cd195-62ad-44a3-
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://cplusplus.com" target="blank"><img src=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"/></a>
+    <a href="https://cplusplus.com" target="blank"><img src="![image](https://user-images.githubusercontent.com/82643732/232349971-06bdb360-c801-496e-9676-976a5d51916b.png)
+"/></a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
        <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
