@@ -35,7 +35,7 @@ https://user-images.githubusercontent.com/82643732/141703909-a86cd195-62ad-44a3-
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://cplusplus.com" target="blank"><img src="![image](https://user-images.githubusercontent.com/82643732/232349971-06bdb360-c801-496e-9676-976a5d51916b.png)
+    <a href="https://cplusplus.com" target="blank"><img src="https://icons8.com/icon/40669/c%2B%2B
 "/></a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
