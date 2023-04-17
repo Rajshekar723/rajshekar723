@@ -12,8 +12,9 @@ ________________________________________________________________________________
 
 
 
-hi,i'm rajshekar.immensely passionate self-taught
-web designer,kick off app developer and ethical hacker.currently pursuing my b.tech degree in electronics and computer engineering from reva university , india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in designs and responsive smooth user interface.
+Hi,I'm Rajshekar
+Immensely passionate self-taught
+web designer,kick off app developer and cloud computing.currently pursuing my B.tech degree in electronics and computer engineering from Reva University , India. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in designs and responsive smooth user interface.
 
 https://user-images.githubusercontent.com/82643732/141703909-a86cd195-62ad-44a3-bc8c-3f9aba8ee991.mp4    
     
@@ -75,7 +76,6 @@ https://user-images.githubusercontent.com/82643732/141703909-a86cd195-62ad-44a3-
 <br/>
 <br/>
 
-<a href="https://github.com/rajshekar723/github-readme-activity-graph"><img alt=Rajshekar's " Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rajshekar723&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
