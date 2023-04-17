@@ -14,7 +14,7 @@ ________________________________________________________________________________
 
 Hi,I'm Rajshekar
 Immensely passionate self-taught
-web designer,kick off app developer and cloud computing.currently pursuing my B.tech degree in electronics and computer engineering from Reva University , India. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in designs and responsive smooth user interface.
+web designer,kick off app developer and cloud computing.currently pursuing my B.tech degree in electronics and computer engineering from Reva University , India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in designs and responsive smooth user interface.
 
 https://user-images.githubusercontent.com/82643732/141703909-a86cd195-62ad-44a3-bc8c-3f9aba8ee991.mp4    
     
@@ -74,7 +74,7 @@ https://user-images.githubusercontent.com/82643732/141703909-a86cd195-62ad-44a3-
 
 
 <br/>
-<br/>
+
 
 
 <br/>
@@ -94,5 +94,5 @@ https://user-images.githubusercontent.com/82643732/141703909-a86cd195-62ad-44a3-
 <a href="https://github.com//github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=rajshekar723">
 </a>
-<a href="https://github.com/rajshekar723?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/rajshekar723?tab=followers"><img src="https://img.shields.io/github/followers/Rajshekar723?label=Followers&style=social" alt="GitHub Badge"></a>
 
