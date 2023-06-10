@@ -16,7 +16,7 @@ Hi,I'm Rajshekar
 Immensely passionate self-taught
 web designer,kick off app developer and cloud computing.currently pursuing my B.tech degree in electronics and computer engineering from Reva University , India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in designs and responsive smooth user interface.
 
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=766526799096554927" height="295" width="345" frameborder="0" scrolling="no" ></iframe>
+<img src="https://assets.pinterest.com/ext/embed.html?id=766526799096554927" height="295" width="345" frameborder="0" scrolling="no" ></img>
     
 ## 🙋‍♂️ About Me
 
