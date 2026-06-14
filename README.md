@@ -20,13 +20,13 @@ web designer,kick off app developer and cloud computing.currently pursuing my B.
     
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **MESH NETWORK ANALYSIS*
+- 🔭 I’m currently working at **Thomosn Reuters*
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Data Structures and Algorithms, .NET, AZURE, Kubernetes, GenAI**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://rajshekar723.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://rajshekar-portfolio-kappa.vercel.app/)**
 
 - 📫 How to reach me **raj18p1723@gmail.com**
 
@@ -83,7 +83,7 @@ web designer,kick off app developer and cloud computing.currently pursuing my B.
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/RAJSHEKAR./"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "www.linkedin.com/in/rajshekar-870a92223/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/rajshekar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/raj_shekar_it_is/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
