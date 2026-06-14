@@ -5,7 +5,7 @@ ________________________________________________________________________________
 
 
 
-<h1 align="left">hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h4 align="left">hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Hi,I'm Rajshekar
 
