@@ -13,8 +13,7 @@ ________________________________________________________________________________
 
 
 Hi,I'm Rajshekar
-Immensely passionate self-taught
-web designer,kick off app developer and cloud computing.currently pursuing my B.tech degree in electronics and computer engineering from Reva University , India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in designs and responsive smooth user interface.
+Passionate and growth-driven Software Engineer with experience in full-stack development, cloud-native applications, and scalable system design. Skilled in building modern applications using .NET, React, microservices, and Azure technologies, with a strong interest in solving complex engineering problems and continuously learning new technologies. A collaborative team player who enjoys working in fast-paced Agile environments, contributing to clean architecture, performance optimization, and innovative solutions. Motivated to take on new challenges, expand technical expertise, and grow into a highly impactful software engineer.
 
 ![myfile](22b22287602523.5dbd29081561d.gif)
     
