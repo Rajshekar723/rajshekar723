@@ -11,7 +11,7 @@ Hi,I'm Rajshekar
 
 Passionate and growth-driven Software Engineer with experience in full-stack development, cloud-native applications, and scalable system design. Skilled in building modern applications using .NET, React, microservices, and Azure technologies, with a strong interest in solving complex engineering problems and continuously learning new technologies. A collaborative team player who enjoys working in fast-paced Agile environments, contributing to clean architecture, performance optimization, and innovative solutions. Motivated to take on new challenges, expand technical expertise, and grow into a highly impactful software engineer.
 
-![myfile](22b22287602523.5dbd29081561d.gif)
+
     
 ## 🙋‍♂️ About Me
 
